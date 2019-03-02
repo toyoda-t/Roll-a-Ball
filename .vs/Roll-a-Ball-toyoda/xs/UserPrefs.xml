@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8A1E5C68-0D25-9FC9-6758-0E2F81437A11}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/DangerWall.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerController.cs" Line="19" Column="2" />
+      <File FileName="Assets/Script/FollowPlayer.cs" Line="20" Column="2" />
+      <File FileName="Assets/Script/Item.cs" Line="17" Column="2" />
+      <File FileName="Assets/Script/GameController.cs" Line="20" Column="2" />
+      <File FileName="Assets/Script/DangerWall.cs" Line="21" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
